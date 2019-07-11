@@ -1,0 +1,35 @@
+paper structure
+
+introduction 
+- topic
+- motivation
+- assignment task
+- introductory example
+
+literature review
+- existing software packages (R...), transition to python (end)
+- master thesis
+- automated versus do-it-yourself methods for causal inference: lessons learned from a data analysis competiton
+
+nested:
+some nice equations
+some nice functions
+
+software structure
+- frontend / backend 
+
+goal: 
+- how is the package constructed
+- how to apply
+
+some nice examples
+- propensity score weighting
+- different configurations
+(plots)
+
+
+
+ 
+
+
+
